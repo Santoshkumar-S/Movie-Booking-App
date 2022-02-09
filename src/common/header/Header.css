@@ -7,7 +7,6 @@
   padding-right: 32px;
   padding-left: 16px;
 }
-
 #image {
   background-color: #ff7f7f;
   height: 35px;
@@ -20,13 +19,11 @@
   top: 0;
   left: 0;
 }
-
 @keyframes tt {
   0% {
     transform: linear;
     left: 0px;
   }
-
   100% {
     transform: linear;
     left: 100%;

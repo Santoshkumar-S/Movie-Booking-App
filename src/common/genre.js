@@ -1,36 +1,36 @@
 let genres = [
     {
         id: 1,
-        name: "Action",
+        name: "Action"
     },
     {
         id: 2,
-        name: "Sci-Fi",
+        name: "Sci-Fi"
     },
     {
         id: 3,
-        name: "Drama",
+        name: "Drama"
     },
     {
         id: 4,
-        name: "Crime",
+        name: "Crime"
     },
     {
         id: 5,
-        name: "Adventure",
+        name: "Adventure"
     },
     {
         id: 6,
-        name: "Biography",
+        name: "Biography"
     },
     {
         id: 7,
-        name: "Horror",
+        name: "Horror"
     },
     {
         id: 8,
-        name: "Suspense",
-    },
-];
+        name: "Suspense"
+    }
+]
 
 export default genres;
