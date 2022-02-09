@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import MovieLogo from "logo.svg";
-import "Header.css";
+import React, { Component } from 'react';
+import MovieLogo from './src/assets/logo.svg';
+import './Header.css';
 
 class Header extends Component {
     render() {
